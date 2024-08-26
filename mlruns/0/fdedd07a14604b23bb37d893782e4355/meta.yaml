@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fdedd07a14604b23bb37d893782e4355/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdedd07a14604b23bb37d893782e4355
+run_name: serious-ram-137
+run_uuid: fdedd07a14604b23bb37d893782e4355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724691065716
+status: 1
+tags: []
+user_id: adegb

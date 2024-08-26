@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ccabd7431d00488196d2165d30340b23/artifacts
+end_time: 1724690333365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccabd7431d00488196d2165d30340b23
+run_name: zealous-stag-163
+run_uuid: ccabd7431d00488196d2165d30340b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724690328576
+status: 4
+tags: []
+user_id: adegb

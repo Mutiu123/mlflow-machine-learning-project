@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a269b6963ed940c8b93ef7320e4752ab/artifacts
+end_time: 1724690593462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a269b6963ed940c8b93ef7320e4752ab
+run_name: monumental-calf-719
+run_uuid: a269b6963ed940c8b93ef7320e4752ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724690589047
+status: 4
+tags: []
+user_id: adegb

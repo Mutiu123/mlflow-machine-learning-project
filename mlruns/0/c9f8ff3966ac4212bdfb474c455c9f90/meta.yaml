@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c9f8ff3966ac4212bdfb474c455c9f90/artifacts
+end_time: 1724690997683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9f8ff3966ac4212bdfb474c455c9f90
+run_name: whimsical-grub-723
+run_uuid: c9f8ff3966ac4212bdfb474c455c9f90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724690993015
+status: 4
+tags: []
+user_id: adegb
